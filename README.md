@@ -1,3 +1,5 @@
+**Video Walkthrough:** [Click here to watch the video](https://youtu.be/iXhgubcr5C4)
+
 # Coroutine-Based Turn Battle System
 
 **Course:** CS3003-001 - Programming Languages
